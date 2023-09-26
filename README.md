@@ -16,7 +16,8 @@ This project was created using Unity 2022.3.0f1 (Long-Term Support).
 
 This project is part of a tutorial series which is available in the following places:
 
-- (coming soon)
+- [YouTube - Part 1](https://www.youtube.com/watch?v=TbZYoSu1w8Y)
+- [danielilett.com - Part 1](https://danielilett.com/2023-09-26-tut7-3-intro-to-shader-graph/)
 
 ## Authors
 
