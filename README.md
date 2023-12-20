@@ -20,6 +20,10 @@ This project is part of a tutorial series which is available in the following pl
 - [danielilett.com - Part 1](https://danielilett.com/2023-09-26-tut7-3-intro-to-shader-graph/)
 - [YouTube - Part 2](https://www.youtube.com/watch?v=jVNC0Z2p9qw)
 - [danielilett.com - Part 2](https://danielilett.com/2023-12-04-tut7-4-intro-to-shader-graph-part-2/)
+- [YouTube - Part 3](https://www.youtube.com/watch?v=ig2IVZh9pCk)
+- [danielilett.com - Part 3](https://danielilett.com/2023-12-11-tut7-5-intro-to-shader-graph-part-3/)
+- [YouTube - Part 4](https://www.youtube.com/watch?v=MndZYDHB4zE)
+- [danielilett.com - Part 4](https://danielilett.com/2023-12-20-tut7-6-intro-to-shader-graph-part-4/)
 
 ## Authors
 
