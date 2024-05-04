@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: LightingExample
-  m_Shader: {fileID: -6465566751694194690, guid: 5a98ee7c370218249a6fe6980c0a9f3d,
+  m_Shader: {fileID: -6465566751694194690, guid: 38b545dba1eeedc47a01a7f26c90ff99,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -74,9 +74,11 @@ Material:
     - _Metallic: 0
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Smoothness: 1
     m_Colors:
     - _Emission: {r: 0, g: 0, b: 0, a: 1}
     - _Emissive_Color: {r: 0, g: 0, b: 0, a: 1}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &5357165647471288584
 MonoBehaviour:
