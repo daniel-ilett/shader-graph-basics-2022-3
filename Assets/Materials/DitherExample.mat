@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: DitherExample
-  m_Shader: {fileID: -6465566751694194690, guid: bf449b5e15431d84bb84cbc0c1fee752,
+  m_Shader: {fileID: -6465566751694194690, guid: 54a8a60df4271b247a51e980b955e445,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
