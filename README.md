@@ -32,6 +32,8 @@ This project is part of a tutorial series which is available in the following pl
 - [danielilett.com - Part 7](https://danielilett.com/2024-05-07-tut7-11-intro-to-shader-graph-part-7/)
 - [YouTube - Part 8](https://www.youtube.com/watch?v=g-yJ8wobzMQ)
 - [danielilett.com - Part 8](https://danielilett.com/2024-05-21-tut7-12-intro-to-shader-graph-part-8/)
+- [YouTube - Part 9](https://www.youtube.com/watch?v=OqxWgfgUUC4)
+- [danielilett.com - Part 9](https://danielilett.com/2024-05-28-tut7-13-intro-to-shader-graph-part-9/)
 
 ## Authors
 
