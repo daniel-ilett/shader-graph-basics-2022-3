@@ -8,11 +8,13 @@ public class Rotate : MonoBehaviour
     [SerializeField] private float rotateSpeed;
     [SerializeField] private float rotateDistance;
     [SerializeField] private float rotateHeight;
+    [SerializeField] private float rotateTimeOffset;
 
     private void Update()
     {
-        float x = Mathf.Sin(Time.time * rotateSpeed * Mathf.PI) * rotateDistance;
-        float z = Mathf.Cos(Time.time * rotateSpeed * Mathf.PI) * rotateDistance;
+        float time = Time.time + rotateTimeOffset;
+        float x = Mathf.Sin(time * rotateSpeed * Mathf.PI) * rotateDistance;
+        float z = Mathf.Cos(time * rotateSpeed * Mathf.PI) * rotateDistance;
         float y = rotateHeight;
 
         Vector3 offset = new Vector3(x, y, z);
